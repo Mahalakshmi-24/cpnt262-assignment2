@@ -4,7 +4,7 @@
   <TheNavBar />
   </section >
   <section class="mt-3">
-  <BaseHero />
+  <TheBaseHero />
   </section>
 
   </div>
