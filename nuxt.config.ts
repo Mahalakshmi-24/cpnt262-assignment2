@@ -7,9 +7,9 @@ export default defineNuxtConfig({
   components: [
     "~/components",
     "~/components/ui",
-   
-   
     "~/components/hero",
+    "~/components/cardlayout",
+
     "~/pages",
   ],
   buildModules: ['@nuxtjs/tailwindcss']
