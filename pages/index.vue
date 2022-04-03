@@ -18,5 +18,8 @@
   <TheSection />
 </section>
 
+<section class="mt-4">
+  <TheFooter />
+</section>
   </div>
   </template>

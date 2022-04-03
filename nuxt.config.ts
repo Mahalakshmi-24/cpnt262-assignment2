@@ -11,7 +11,7 @@ export default defineNuxtConfig({
     "~/components/cardlayout",
     "~/components/article",
     "~/components/section",
-
+    "~/components/footer",
     "~/pages",
   ],
   buildModules: ['@nuxtjs/tailwindcss']
