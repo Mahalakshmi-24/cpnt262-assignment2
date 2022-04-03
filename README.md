@@ -4,13 +4,13 @@
 
 - CPNT262-Assignment 2 - Vue/Nuxt Landing Page
 
-- [New GitHub repo]()
+- [New GitHub repo](https://github.com/Mahalakshmi-24/cpnt262-assignment2)
 
 - [new Netlify](https://lambent-gumption-d39557.netlify.app/)
 
-- [old GitHub repo]()
+- [old GitHub repo](https://github.com/Mahalakshmi-24/cpnt262-landingpage)
 
-- [old Netlify]()
+- [old Netlify](https://gleeful-jelly-b3cfd7.netlify.app/)
 
 ## Code Journal
 
