@@ -14,5 +14,9 @@
   <TheArticle />
   </section>
 
+<section class="mt-10">
+  <TheSection />
+</section>
+
   </div>
   </template>
