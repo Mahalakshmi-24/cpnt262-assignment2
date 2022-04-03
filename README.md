@@ -4,6 +4,14 @@
 
 - CPNT262-Assignment 2 - Vue/Nuxt Landing Page
 
+- [New GitHub repo]()
+
+- [new Netlify](https://lambent-gumption-d39557.netlify.app/)
+
+- [old GitHub repo]()
+
+- [old Netlify]()
+
 ## Code Journal
 
 - first created new nuxt3 app amd installed tailwindcss.
@@ -42,8 +50,38 @@
 
 - so i just copied one component at a time it's working now.
 
-- but i don't know what mistake i did before.
+-but i don't know what mistake i did before.
 
 ## Attribution
 
 - [pexels](https://www.pexels.com/)
+
+# Nuxt 3 Minimal Starter
+
+We recommend to look at the [documentation](https://v3.nuxtjs.org).
+
+## Setup
+
+Make sure to install the dependencies
+
+```bash
+yarn install
+```
+
+## Development
+
+Start the development server on http://localhost:3000
+
+```bash
+yarn dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+yarn build
+```
+
+Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
