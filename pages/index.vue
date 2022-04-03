@@ -9,5 +9,10 @@
    <section >
   <TheBaseCard />
   </section>
+
+  <section class="mt-10">
+  <TheArticle />
+  </section>
+
   </div>
   </template>

@@ -9,6 +9,7 @@ export default defineNuxtConfig({
     "~/components/ui",
     "~/components/hero",
     "~/components/cardlayout",
+    "~/components/article",
 
     "~/pages",
   ],
